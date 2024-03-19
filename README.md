@@ -89,7 +89,7 @@ Client broadcasts message
 Server receives message & logs it
 * Server listens for messages in socket. When one is received, the server logs it
 Server rebroadcasts message to the rest of the clients in the room
-* The server broadcasts the message to everyone in the same room as the sender
+* The server broadcasts the message to everyone in the same room as the sender.
 
 ### When certain client disconnect then in Server that specific client name will appear – not just “Lost a connection” how to make this happen ?
 Socket ID
