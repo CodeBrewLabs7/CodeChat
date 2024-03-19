@@ -93,7 +93,7 @@ Server rebroadcasts message to the rest of the clients in the room
 
 ### When certain client disconnect then in Server that specific client name will appear – not just “Lost a connection” how to make this happen ?
 Socket ID
-* Each socket has an ID.
+* Each socket has an ID check.
 * Each socket ID is mapped with a set of user data.
 & Once a socket disconnects, the corresponding user data is known, hence able to be logged.
 
