@@ -25,7 +25,7 @@ npm install --global windows-build-tools
 # Install required dependencies
 npm install
 
-npm config set python python2.7 *if you face and errro*
+npm config set python python2.7 *if you face and error*
 ```
 
 **_IMPORTANT!!!_**
