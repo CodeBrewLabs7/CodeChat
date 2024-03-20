@@ -35,7 +35,7 @@
     "md5": "^2.2.1",
     "mmmagic": "^0.5.2",
     "mustache-express": "^1.2.8",
-    "node-sass-middleware": "^0.11.0",
+    "sass": "^1.72.0",
     "path": "^0.12.7",
     "perfect-scrollbar": "^1.4.0",
     "popper.js": "^1.14.4",
